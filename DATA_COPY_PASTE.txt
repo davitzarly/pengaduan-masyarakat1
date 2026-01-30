@@ -1,0 +1,399 @@
+========================================
+DATA PENGADUAN #1
+========================================
+Nama: Budi Santoso
+Email: budi.santoso@gmail.com
+Subjek: Biaya Layanan
+Detail: Saya ingin menanyakan berapa biaya untuk membuat KTP baru? Apakah ada biaya admin atau gratis? Mohon info tarif resmi.
+
+========================================
+DATA PENGADUAN #2
+========================================
+Nama: Siti Aminah
+Email: siti.aminah@yahoo.com
+Subjek: Waktu Pelayanan
+Detail: Jam pelayanan di kantor Dukcapil terlalu singkat. Saya datang jam 3 sore sudah tutup padahal seharusnya buka sampai jam 4.
+
+========================================
+DATA PENGADUAN #3
+========================================
+Nama: Ahmad Fauzi
+Email: ahmad.fauzi@gmail.com
+Subjek: Petugas Layanan
+Detail: Petugas loket 2 kurang ramah dalam melayani. Saya bertanya malah dijawab dengan nada tinggi dan tidak sopan.
+
+========================================
+DATA PENGADUAN #4
+========================================
+Nama: Dewi Lestari
+Email: dewi.lestari@hotmail.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: Ruang tunggu sangat panas karena AC tidak berfungsi. Mohon segera diperbaiki untuk kenyamanan masyarakat.
+
+========================================
+DATA PENGADUAN #5
+========================================
+Nama: Rizki Pratama
+Email: rizki.pratama@gmail.com
+Subjek: Administrasi Kependudukan
+Detail: Bagaimana cara mengurus akta kelahiran yang hilang? Dokumen apa saja yang diperlukan?
+
+========================================
+DATA PENGADUAN #6
+========================================
+Nama: Nur Hidayah
+Email: nur.hidayah@gmail.com
+Subjek: SOP dan Alur Layanan
+Detail: Prosedur pembuatan KK baru sangat berbelit-belit. Saya sudah bolak-balik 3 kali masih belum selesai.
+
+========================================
+DATA PENGADUAN #7
+========================================
+Nama: Eko Prasetyo
+Email: eko.prasetyo@yahoo.com
+Subjek: Biaya Layanan
+Detail: Apakah benar pembuatan akta kematian gratis? Saya diminta bayar Rp 50.000 oleh petugas.
+
+========================================
+DATA PENGADUAN #8
+========================================
+Nama: Linda Wijaya
+Email: linda.wijaya@gmail.com
+Subjek: Waktu Pelayanan
+Detail: Antrian terlalu lama. Saya menunggu dari jam 8 pagi sampai jam 12 siang baru dipanggil.
+
+========================================
+DATA PENGADUAN #9
+========================================
+Nama: Hendra Gunawan
+Email: hendra.gunawan@gmail.com
+Subjek: Media dan Informasi Layanan
+Detail: Website Dukcapil sering error. Saya tidak bisa mengakses informasi persyaratan online.
+
+========================================
+DATA PENGADUAN #10
+========================================
+Nama: Fitri Rahmawati
+Email: fitri.rahmawati@hotmail.com
+Subjek: Produk Layanan
+Detail: KTP yang saya terima hasil cetaknya buram dan foto tidak jelas. Mohon dicetak ulang.
+
+========================================
+DATA PENGADUAN #11
+========================================
+Nama: Agus Setiawan
+Email: agus.setiawan@gmail.com
+Subjek: Gratifikasi
+Detail: Saya diminta uang pelicin Rp 100.000 untuk mempercepat proses pembuatan KTP. Ini pungli!
+
+========================================
+DATA PENGADUAN #12
+========================================
+Nama: Maya Sari
+Email: maya.sari@yahoo.com
+Subjek: Layanan Konsultasi
+Detail: Saya ingin konsultasi tentang persyaratan pindah domisili antar provinsi. Kemana saya harus menghubungi?
+
+========================================
+DATA PENGADUAN #13
+========================================
+Nama: Doni Hermawan
+Email: doni.hermawan@gmail.com
+Subjek: Petugas Layanan
+Detail: Petugas pelayanan sibuk main HP dan ngobrol sendiri. Saya sudah menunggu lama tidak dilayani.
+
+========================================
+DATA PENGADUAN #14
+========================================
+Nama: Rina Marlina
+Email: rina.marlina@gmail.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: Toilet di kantor Dukcapil sangat kotor dan tidak terawat. Mohon dibersihkan secara rutin.
+
+========================================
+DATA PENGADUAN #15
+========================================
+Nama: Bambang Sutrisno
+Email: bambang.sutrisno@yahoo.com
+Subjek: Waktu Pelayanan
+Detail: Kenapa hari Sabtu kantor tutup? Saya yang bekerja senin-jumat jadi susah untuk mengurus dokumen.
+
+========================================
+DATA PENGADUAN #16
+========================================
+Nama: Yuni Astuti
+Email: yuni.astuti@gmail.com
+Subjek: Biaya Layanan
+Detail: Berapa biaya legalisir akta kelahiran? Mohon info rincian biaya yang resmi.
+
+========================================
+DATA PENGADUAN #17
+========================================
+Nama: Fajar Nugroho
+Email: fajar.nugroho@hotmail.com
+Subjek: Administrasi Kependudukan
+Detail: Saya kehilangan KTP. Bagaimana prosedur pembuatan KTP pengganti?
+
+========================================
+DATA PENGADUAN #18
+========================================
+Nama: Indah Permata
+Email: indah.permata@gmail.com
+Subjek: SOP dan Alur Layanan
+Detail: Alur pelayanan tidak jelas. Saya bingung harus ke loket mana dulu untuk mengurus KK.
+
+========================================
+DATA PENGADUAN #19
+========================================
+Nama: Rudi Hartono
+Email: rudi.hartono@yahoo.com
+Subjek: Petugas Layanan
+Detail: Petugas sangat lambat dalam melayani. Satu orang bisa sampai 30 menit.
+
+========================================
+DATA PENGADUAN #20
+========================================
+Nama: Sari Dewi
+Email: sari.dewi@gmail.com
+Subjek: Produk Layanan
+Detail: Data di KTP saya salah ketik. Nama saya tertulis SARI DWEI seharusnya SARI DEWI.
+
+========================================
+DATA PENGADUAN #21
+========================================
+Nama: Andi Wijaya
+Email: andi.wijaya@gmail.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: Kursi di ruang tunggu banyak yang rusak. Mohon segera diperbaiki.
+
+========================================
+DATA PENGADUAN #22
+========================================
+Nama: Lina Susanti
+Email: lina.susanti@hotmail.com
+Subjek: Waktu Pelayanan
+Detail: Jam istirahat petugas terlalu lama. Dari jam 12 sampai jam 2 siang tidak ada yang melayani.
+
+========================================
+DATA PENGADUAN #23
+========================================
+Nama: Hadi Purnomo
+Email: hadi.purnomo@gmail.com
+Subjek: Media dan Informasi Layanan
+Detail: Nomor telepon call center tidak pernah diangkat. Saya sudah coba berkali-kali.
+
+========================================
+DATA PENGADUAN #24
+========================================
+Nama: Ratna Sari
+Email: ratna.sari@yahoo.com
+Subjek: Biaya Layanan
+Detail: Saya diminta bayar untuk fotokopi padahal saya sudah bawa fotokopi sendiri. Ini tidak masuk akal.
+
+========================================
+DATA PENGADUAN #25
+========================================
+Nama: Teguh Santoso
+Email: teguh.santoso@gmail.com
+Subjek: Gratifikasi
+Detail: Oknum petugas minta uang rokok untuk mempercepat proses. Ini harus ditindak tegas!
+
+========================================
+DATA PENGADUAN #26
+========================================
+Nama: Wati Rahayu
+Email: wati.rahayu@gmail.com
+Subjek: Layanan Konsultasi
+Detail: Bagaimana cara mengurus surat keterangan pindah? Mohon penjelasan lengkap.
+
+========================================
+DATA PENGADUAN #27
+========================================
+Nama: Irfan Hakim
+Email: irfan.hakim@hotmail.com
+Subjek: Administrasi Kependudukan
+Detail: Proses pembuatan akta nikah memakan waktu berapa lama? Dokumen apa saja yang harus disiapkan?
+
+========================================
+DATA PENGADUAN #28
+========================================
+Nama: Nita Anggraini
+Email: nita.anggraini@gmail.com
+Subjek: Petugas Layanan
+Detail: Petugas loket 3 sangat membantu dan ramah. Terima kasih atas pelayanannya.
+
+========================================
+DATA PENGADUAN #29
+========================================
+Nama: Yoga Pratama
+Email: yoga.pratama@yahoo.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: Mesin antrian sering error dan nomor antrian tidak keluar.
+
+========================================
+DATA PENGADUAN #30
+========================================
+Nama: Diah Ayu
+Email: diah.ayu@gmail.com
+Subjek: Waktu Pelayanan
+Detail: Pelayanan sangat cepat hari ini. Hanya 15 menit sudah selesai. Terima kasih!
+
+========================================
+DATA PENGADUAN #31
+========================================
+Nama: Arif Rahman
+Email: arif.rahman@gmail.com
+Subjek: SOP dan Alur Layanan
+Detail: Persyaratan pembuatan SKCK tidak jelas. Saya sudah bawa dokumen lengkap tapi masih kurang.
+
+========================================
+DATA PENGADUAN #32
+========================================
+Nama: Mega Putri
+Email: mega.putri@hotmail.com
+Subjek: Biaya Layanan
+Detail: Apakah pembuatan KIA (Kartu Identitas Anak) berbayar? Mohon info biaya resmi.
+
+========================================
+DATA PENGADUAN #33
+========================================
+Nama: Dedy Kurniawan
+Email: dedy.kurniawan@gmail.com
+Subjek: Produk Layanan
+Detail: Chip di e-KTP saya rusak dan tidak bisa dibaca. Bagaimana cara menggantinya?
+
+========================================
+DATA PENGADUAN #34
+========================================
+Nama: Lia Amelia
+Email: lia.amelia@yahoo.com
+Subjek: Media dan Informasi Layanan
+Detail: Informasi di website tidak update. Masih tertulis jam pelayanan lama.
+
+========================================
+DATA PENGADUAN #35
+========================================
+Nama: Bayu Aji
+Email: bayu.aji@gmail.com
+Subjek: Petugas Layanan
+Detail: Petugas security sangat membantu mengarahkan saya ke loket yang benar. Apresiasi!
+
+========================================
+DATA PENGADUAN #36
+========================================
+Nama: Citra Dewi
+Email: citra.dewi@gmail.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: Parkiran motor sangat sempit dan sering penuh. Mohon diperluas.
+
+========================================
+DATA PENGADUAN #37
+========================================
+Nama: Fikri Ramadhan
+Email: fikri.ramadhan@hotmail.com
+Subjek: Waktu Pelayanan
+Detail: Kenapa pelayanan di hari Senin selalu lambat? Antrian sangat panjang.
+
+========================================
+DATA PENGADUAN #38
+========================================
+Nama: Gita Savitri
+Email: gita.savitri@gmail.com
+Subjek: Administrasi Kependudukan
+Detail: Bagaimana cara mengurus perubahan data di KK? Alamat saya sudah pindah.
+
+========================================
+DATA PENGADUAN #39
+========================================
+Nama: Haris Munandar
+Email: haris.munandar@yahoo.com
+Subjek: Gratifikasi
+Detail: Tidak ada pungutan liar. Semua gratis sesuai aturan. Terima kasih!
+
+========================================
+DATA PENGADUAN #40
+========================================
+Nama: Intan Permatasari
+Email: intan.permatasari@gmail.com
+Subjek: Layanan Konsultasi
+Detail: Saya butuh informasi tentang syarat pembuatan paspor. Apakah bisa dikonsultasikan di sini?
+
+========================================
+DATA PENGADUAN #41
+========================================
+Nama: Joko Susilo
+Email: joko.susilo@gmail.com
+Subjek: Biaya Layanan
+Detail: Berapa lama proses pembuatan akta kelahiran dan apakah ada biaya?
+
+========================================
+DATA PENGADUAN #42
+========================================
+Nama: Kartika Sari
+Email: kartika.sari@hotmail.com
+Subjek: Petugas Layanan
+Detail: Petugas kurang sabar dalam menjelaskan. Saya yang awam jadi bingung.
+
+========================================
+DATA PENGADUAN #43
+========================================
+Nama: Lukman Hakim
+Email: lukman.hakim@gmail.com
+Subjek: Sarana dan Prasarana Layanan
+Detail: WiFi di kantor tidak bisa digunakan. Saya perlu akses internet untuk mengisi formulir online.
+
+========================================
+DATA PENGADUAN #44
+========================================
+Nama: Mira Handayani
+Email: mira.handayani@yahoo.com
+Subjek: Waktu Pelayanan
+Detail: Pelayanan di loket 1 sangat cepat dan efisien. Terima kasih!
+
+========================================
+DATA PENGADUAN #45
+========================================
+Nama: Nanda Pratama
+Email: nanda.pratama@gmail.com
+Subjek: SOP dan Alur Layanan
+Detail: Prosedur sudah jelas dan mudah dipahami. Semua berjalan lancar.
+
+========================================
+DATA PENGADUAN #46
+========================================
+Nama: Oki Setiawan
+Email: oki.setiawan@gmail.com
+Subjek: Produk Layanan
+Detail: Kualitas cetak KK sangat bagus dan jelas. Terima kasih!
+
+========================================
+DATA PENGADUAN #47
+========================================
+Nama: Putri Ayu
+Email: putri.ayu@hotmail.com
+Subjek: Media dan Informasi Layanan
+Detail: Aplikasi mobile Dukcapil sangat membantu. Saya bisa cek status dokumen dari HP.
+
+========================================
+DATA PENGADUAN #48
+========================================
+Nama: Qori Maulana
+Email: qori.maulana@gmail.com
+Subjek: Administrasi Kependudukan
+Detail: Bagaimana cara mengurus akta cerai? Dokumen apa yang diperlukan?
+
+========================================
+DATA PENGADUAN #49
+========================================
+Nama: Rina Wulandari
+Email: rina.wulandari@gmail.com
+Subjek: Petugas Layanan
+Detail: Semua petugas sangat ramah dan profesional. Pelayanan sangat memuaskan!
+
+========================================
+DATA PENGADUAN #50
+========================================
+Nama: Sandi Nugroho
+Email: sandi.nugroho@yahoo.com
+Subjek: Lainnya
+Detail: Saran: Tolong sediakan tempat bermain anak di ruang tunggu agar anak-anak tidak rewel.

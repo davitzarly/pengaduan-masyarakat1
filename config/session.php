@@ -1,0 +1,17 @@
+<?php
+
+return [
+    'driver' => 'file',
+    'lifetime' => env('SESSION_LIFETIME', 120),
+    'expire_on_close' => false,
+    'encrypt' => false,
+    'files' => __DIR__ . '/../storage/framework/sessions',
+    'connection' => null,
+    'table' => 'sessions',
+    'lottery' => [2, 100],
+    'cookie' => env('SESSION_COOKIE', 'laravel_session'),
+    'path' => '/',
+    'domain' => env('SESSION_DOMAIN', null),
+    'secure' => env('SESSION_SECURE_COOKIE', false),
+    'same_site' => null,
+];
